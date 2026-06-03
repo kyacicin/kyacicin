@@ -18,15 +18,12 @@
         im <strong>kunsulu</strong>
       </p>
       <p>
-        Technology fascinates me because it can turn a small idea into something that helps real people. My current focus is <strong>jospaar-ai</strong>, an iOS planner that turns messy thoughts into tasks, events, habits, and reminders.
+        I love working on practical projects, clean interfaces, and small experiments that teach me something new. Im still early in the journey, but I care about steady progress and shipping real work.
       </p>
-      <p>
-        I love working on practical projects, clean interfaces, and small experiments that teach me something new. I am still early in the journey, but I care about steady progress and shipping real work.
-      </p>
-      <p>I am very passionate about:</p>
+      <p>passionate about:</p>
       <ul>
         <li>iOS development, SwiftUI, and product design</li>
-        <li>AI assistants and productivity tools</li>
+        <li>Computer Networks, DevOps</li>
         <li>Learning systems, creative coding, and visual explanations</li>
       </ul>
     </td>
@@ -44,7 +41,7 @@
   <tr>
     <td width="66%" valign="top">
       <p>Learning <strong>Swift, SwiftUI, app architecture, and clean UI flows</strong></p>
-      <p>Building <strong>jospaar-ai</strong> as a real iOS product, not only a practice repo</p>
+      <p>Building a real iOS product, not only a practice repo</p>
       <p>Improving GitHub habits: readable commits, useful READMEs, and small public progress</p>
       <p>Practicing Python, web basics, and visual explanation tools like Manim</p>
       <p><code>Current mission</code>: learn fast, build honestly, polish the details.</p>
