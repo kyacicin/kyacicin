@@ -13,9 +13,9 @@
 <table>
   <tr>
     <td width="64%" valign="top">
-      <h2>Namaste</h2>
+      <h2>Salem</h2>
       <p>
-        I'm <strong>kyacicin</strong>, an enthusiastic builder learning iOS development and AI-powered product design.
+        im <strong>kunsulu</strong>
       </p>
       <p>
         Technology fascinates me because it can turn a small idea into something that helps real people. My current focus is <strong>jospaar-ai</strong>, an iOS planner that turns messy thoughts into tasks, events, habits, and reminders.
