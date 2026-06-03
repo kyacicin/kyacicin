@@ -1,0 +1,11 @@
+<svg width="1000" height="130" viewBox="0 0 1000 130" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="decorative green vine">
+  <rect width="1000" height="130" fill="transparent"/>
+  <path d="M48 72 C98 12 160 104 224 56 C282 12 302 104 363 55 C424 8 460 102 520 58 C586 10 628 108 690 58 C751 13 782 103 842 65 C900 28 927 80 962 50" stroke="#4ADE80" stroke-width="7" stroke-linecap="round" opacity="0.9"/>
+  <path d="M48 72 C98 12 160 104 224 56 C282 12 302 104 363 55 C424 8 460 102 520 58 C586 10 628 108 690 58 C751 13 782 103 842 65 C900 28 927 80 962 50" stroke="#14532D" stroke-width="2" stroke-linecap="round" opacity="0.55"/>
+  <path d="M481 68 C489 42 499 28 514 16 C525 31 528 47 521 68" fill="#22C55E"/>
+  <path d="M520 68 C526 42 545 29 565 25 C560 48 546 62 520 68" fill="#86EFAC"/>
+  <path d="M498 69 C493 48 477 36 458 34 C462 56 476 68 498 69" fill="#16A34A"/>
+  <path d="M504 78 C504 56 508 38 515 17" stroke="#F8D49A" stroke-width="9" stroke-linecap="round"/>
+  <path d="M505 80 C494 71 483 65 470 61" stroke="#E9A96B" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="514" cy="16" r="5" fill="#BBF7D0"/>
+</svg>
