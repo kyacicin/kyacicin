@@ -31,7 +31,7 @@
       </ul>
     </td>
     <td width="36%" align="center" valign="middle">
-      <img src="./assets/orbit-globe.svg" width="280" alt="glowing orbit globe" />
+      <img src="./assets/profile-girl.png" width="280" alt="black-haired anime girl illustration" />
     </td>
   </tr>
 </table>
