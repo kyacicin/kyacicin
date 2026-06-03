@@ -50,7 +50,7 @@
       <p><code>Current mission</code>: learn fast, build honestly, polish the details.</p>
     </td>
     <td width="34%" align="center" valign="middle">
-      <img src="./assets/floating-island.svg" width="310" alt="floating island with a laptop" />
+      <img src="./assets/profile-schoolgirl.png" width="310" alt="anime schoolgirl illustration" />
     </td>
   </tr>
 </table>
