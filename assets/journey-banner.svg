@@ -1,0 +1,47 @@
+<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="cinematic journey banner">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.36" stop-color="#C7D2FE"/>
+      <stop offset="0.7" stop-color="#14532D"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(585 80) rotate(90) scale(210 360)">
+      <stop stop-color="#FFFFFF" stop-opacity="0.95"/>
+      <stop offset="0.55" stop-color="#FEF3C7" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#FEF3C7" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.35"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.18"/>
+    </linearGradient>
+    <clipPath id="round"><rect width="1200" height="340" rx="58"/></clipPath>
+    <filter id="soft" x="-10%" y="-10%" width="120%" height="120%"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1200" height="340" fill="url(#sky)"/>
+    <ellipse cx="596" cy="82" rx="355" ry="198" fill="url(#sun)"/>
+    <path d="M0 252 C190 192 355 220 510 246 C716 282 900 190 1200 158 L1200 340 L0 340 Z" fill="#052E16" opacity="0.72"/>
+    <path d="M0 286 C215 228 425 260 610 285 C807 312 980 235 1200 214 L1200 340 L0 340 Z" fill="#020617" opacity="0.58"/>
+    <g opacity="0.75" filter="url(#soft)">
+      <circle cx="1020" cy="84" r="110" fill="#86EFAC" opacity="0.5"/>
+      <circle cx="1025" cy="218" r="160" fill="#22C55E" opacity="0.32"/>
+    </g>
+    <path d="M278 178 C325 111 374 100 434 145 C383 132 346 150 319 211" fill="#E0F2FE" opacity="0.95"/>
+    <path d="M443 147 C514 104 568 116 628 177 C551 153 513 166 476 220" fill="#F8FAFC" opacity="0.92"/>
+    <path d="M421 155 C447 173 463 184 476 221 C447 206 423 195 397 192 C409 177 416 166 421 155Z" fill="#CBD5E1"/>
+    <path d="M500 165 C542 153 572 158 616 177" stroke="#94A3B8" stroke-width="7" stroke-linecap="round" opacity="0.55"/>
+    <path d="M352 150 C385 139 401 145 432 154" stroke="#94A3B8" stroke-width="7" stroke-linecap="round" opacity="0.5"/>
+    <g transform="translate(790 80)">
+      <circle cx="92" cy="91" r="58" fill="#111827"/>
+      <path d="M38 118 C76 148 126 147 162 113 C157 194 55 198 38 118Z" fill="#F8C7A0"/>
+      <path d="M38 100 C28 36 66 3 120 13 C166 24 189 72 166 126 C135 85 95 71 38 100Z" fill="#0F172A"/>
+      <path d="M52 150 C83 124 125 122 158 149 L184 235 L26 235 Z" fill="#7F1D1D"/>
+      <circle cx="70" cy="94" r="7" fill="#E0F2FE"/>
+      <circle cx="128" cy="94" r="7" fill="#E0F2FE"/>
+      <path d="M82 125 C104 137 127 127 138 116" stroke="#7C2D12" stroke-width="4" stroke-linecap="round"/>
+    </g>
+    <rect width="1200" height="340" fill="url(#glass)"/>
+  </g>
+</svg>
