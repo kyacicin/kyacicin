@@ -1,0 +1,27 @@
+<svg width="360" height="360" viewBox="0 0 360 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="glowing orbit globe">
+  <defs>
+    <radialGradient id="ocean" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(124 98) rotate(52) scale(250)">
+      <stop stop-color="#7DD3FC"/>
+      <stop offset="0.48" stop-color="#0EA5E9"/>
+      <stop offset="1" stop-color="#312E81"/>
+    </radialGradient>
+    <radialGradient id="shine" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(92 72) rotate(50) scale(145)">
+      <stop stop-color="#FFFFFF" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <circle cx="180" cy="180" r="138" fill="#0F172A" opacity="0.35" filter="url(#glow)"/>
+  <circle cx="180" cy="180" r="128" fill="url(#ocean)"/>
+  <circle cx="180" cy="180" r="128" fill="url(#shine)"/>
+  <path d="M84 154 C112 132 136 142 150 116 C169 81 210 80 224 112 C237 142 202 149 190 170 C176 196 201 216 175 236 C143 259 110 235 105 205 C101 181 58 181 84 154Z" fill="#86EFAC" opacity="0.9"/>
+  <path d="M212 78 C249 89 279 116 296 151 C261 144 248 162 222 145 C202 132 204 106 212 78Z" fill="#4ADE80" opacity="0.9"/>
+  <path d="M225 226 C250 208 286 218 292 246 C266 276 228 294 186 299 C196 267 202 242 225 226Z" fill="#A3E635" opacity="0.88"/>
+  <path d="M59 210 C108 258 197 281 294 247" stroke="#F472B6" stroke-width="9" stroke-linecap="round" opacity="0.55"/>
+  <path d="M58 113 C138 37 274 71 323 168" stroke="#22D3EE" stroke-width="5" stroke-linecap="round" opacity="0.45"/>
+  <circle cx="306" cy="170" r="8" fill="#FBBF24"/>
+  <circle cx="63" cy="211" r="7" fill="#F472B6"/>
+</svg>
