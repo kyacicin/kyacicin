@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/journey-banner.svg" width="100%" alt="cinematic journey banner" />
+  <img src="./assets/profile-banner.jpg" width="100%" alt="anime sunrise sky banner" />
 </p>
 
 <h2 align="center">On a journey to build useful things, learn deeply, and become better every day...</h2>
