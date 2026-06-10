@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/vine.svg" width="88%" alt="decorative green vine" />
+  <img src="./assets/decorative-divider.png" width="88%" alt="decorative black divider" />
 </p>
 
 <p align="center">
@@ -98,5 +98,5 @@
 </p>
 
 <p align="center">
-  <img src="./assets/vine.svg" width="60%" alt="decorative green vine footer" />
+  <img src="./assets/decorative-divider.png" width="60%" alt="decorative black divider footer" />
 </p>
