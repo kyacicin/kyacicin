@@ -28,7 +28,7 @@
       </ul>
     </td>
     <td width="36%" align="center" valign="middle">
-      <img src="./assets/profile-girl.png" width="280" alt="black-haired anime girl illustration" />
+      <img src="./assets/profile-girl.png" width="280" alt="white lily flower illustration" />
     </td>
   </tr>
 </table>
