@@ -1,11 +1,6 @@
 <p align="center">
   <img src="./assets/decorative-divider.png" width="88%" alt="decorative black divider" />
 </p>
-
-<p align="center">
-  <img src="./assets/profile-banner.jpg" width="100%" alt="anime sunrise sky banner" />
-</p>
-
 <h2 align="center">On a journey to build useful things, learn deeply, and become better every day...</h2>
 
 <br />
