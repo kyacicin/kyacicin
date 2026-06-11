@@ -102,27 +102,6 @@
   </a>
 </p>
 
----
-
-## Featured Work
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>jospaar-ai</h3>
-      <p>AI-powered iOS planner that turns brain dumps into tasks, events, habits, and reminders.</p>
-      <a href="https://github.com/kyacicin/jospaar-ai">Open repository</a>
-    </td>
-    <td width="50%">
-      <h3>Learning Labs</h3>
-      <p>Small projects for Swift, web basics, algorithms, and visual explanations.</p>
-      <a href="https://github.com/kyacicin?tab=repositories">Browse repositories</a>
-    </td>
-  </tr>
-</table>
-
----
-
 ## GitHub Stats
 
 <p align="center">
